@@ -67,6 +67,47 @@ EN: A 3D action game built in Godot, featuring enemy drones, ammo collection, wa
 - Godot
 - Produto digital / Digital product
 
+## Formação e reconhecimento / Education and Recognition
+
+### Formação principal / Main Training
+
+- **Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação (SFPO / Presencial)** — IEFP  
+  Concluído em março de 2025 / Completed in March 2025
+
+PT: Formação presencial focada em programação, sistemas de informação, desenvolvimento de software e resolução prática de problemas técnicos.
+
+EN: In-person training focused on programming, information systems, software development, and practical technical problem-solving.
+
+### Reconhecimento / Recognition
+
+- **WorldSkills Portugal — Jogos Digitais / Digital Games**  
+  3.º lugar a nível nacional / 3rd place nationally
+
+PT: Participação competitiva na área de jogos digitais, com foco em criatividade, desenvolvimento, lógica e execução técnica.
+
+EN: Competitive participation in digital games, focused on creativity, development, logic, and technical execution.
+
+## Formação complementar / Complementary Training
+
+### Curso concluído / Completed Course
+
+- **Complete Godot 3D: Develop Your Own 3D Games Using Godot 4** — Udemy
+
+PT: Reforcei conhecimentos em desenvolvimento 3D, lógica de jogo, inimigos, combate, recolha de itens, pontuação e criação de níveis.
+
+EN: Strengthened knowledge in 3D development, game logic, enemies, combat, item collection, scoring, and level creation.
+
+### Em progresso / In Progress
+
+- **Angular - The Complete Guide** — Udemy
+- **React - The Complete Guide (incl. Next.js, Redux)** — Udemy
+- **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)** — Udemy
+- **The Complete Full-Stack Web Development Bootcamp** — Udemy
+
+PT: Formação em curso para consolidar competências em frontend, backend e desenvolvimento full-stack.
+
+EN: Ongoing training to strengthen frontend, backend, and full-stack development skills.
+
 ## O que este perfil mostra / What This Profile Shows
 
 PT: Capacidade de pensar produto, criar interfaces funcionais, organizar informação, construir protótipos e transformar ideias em projetos publicáveis.
