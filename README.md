@@ -1,28 +1,36 @@
 # Olá, sou a Patrícia / Hi, I'm Patrícia
 
-## Português
+## Português (PT-PT)
 
-Estou a desenvolver projetos práticos enquanto aprofundo as minhas competências em desenvolvimento web, aplicações interativas e criação de jogos.
+Sou criadora da **AprovaTVDE**, uma app de preparação para o exame teórico TVDE publicada na App Store.
 
-Gosto de construir projetos claros, úteis e visualmente cuidados. Neste momento estou focada em transformar o meu GitHub numa montra profissional, com repositórios bem documentados, projetos fáceis de testar e uma apresentação que mostre evolução, curiosidade e capacidade de resolver problemas.
+Gosto de transformar ideias simples em produtos úteis, claros e fáceis de usar. O meu foco está em desenvolvimento web, aplicações interativas, produto digital e experiências que resolvem problemas reais.
+
+Neste GitHub reúno protótipos, projetos web e experiências de desenvolvimento que mostram a evolução entre ideia, protótipo e produto publicado.
 
 ## English
 
-I'm building practical projects while developing my skills in web development, interactive applications, and game development.
+I'm the creator of **AprovaTVDE**, a TVDE theory exam preparation app published on the App Store.
 
-I enjoy creating clear, useful, and visually polished projects. Right now, I'm focused on turning my GitHub into a professional portfolio with well-documented repositories, easy-to-test projects, and a presentation that shows growth, curiosity, and problem-solving.
+I enjoy turning simple ideas into useful, clear, and easy-to-use products. My focus is web development, interactive applications, digital product, and experiences that solve real problems.
 
-## Projetos em destaque / Featured Projects
+This GitHub brings together prototypes, web projects, and development experiments that show the journey from idea, to prototype, to published product.
 
-### Simulador de Questões para TVDE / TVDE Question Simulator
+## Projeto principal / Main Project
 
-PT: Simulador de estudo para preparação do exame TVDE, com perguntas por categoria, teste aleatório, navegação entre questões, revisão de respostas e resultado final.
+### AprovaTVDE
 
-EN: A study simulator for TVDE exam preparation, with questions by category, random tests, question navigation, answer review, and final score feedback.
+PT: App de estudo para preparação do exame teórico TVDE, criada para tornar o treino mais simples, rápido e focado. A app funciona offline e inclui Teste Rápido, Categorias, modo Exame, perguntas guardadas e histórico.
 
-Repository: https://github.com/Tijgadixa/Simulador-de-Questoes-para-TVDE
+EN: A study app for TVDE theory exam preparation, designed to make practice simpler, faster, and more focused. The app works offline and includes Quick Test, Categories, Exam mode, saved questions, and history.
 
-### Jogo 3D em Godot / 3D Godot Game
+- Site oficial / Official website: https://aprovas.eu/
+- App Store: https://apps.apple.com/pt/app/aprovatvde/id6767650335
+- Protótipo web / Web prototype: https://github.com/Tijgadixa/Simulador-de-Questoes-para-TVDE
+
+## Outros projetos / Other Projects
+
+### 3D Godot Game
 
 PT: Jogo de ação 3D criado em Godot, com drones inimigos, recolha de munição, combate por vagas e sistema de pontuação.
 
@@ -37,13 +45,15 @@ Repository: https://github.com/Tijgadixa/my-game-project
 - JavaScript
 - Godot
 - Git and GitHub
+- Produto digital / Digital product
 
-## Objetivo / Goal
+## O que estou a construir / What I'm Building
 
-PT: Continuar a criar projetos completos, bem apresentados e úteis para demonstrar capacidades técnicas, atenção ao detalhe e vontade de aprender.
+PT: Estou a melhorar a apresentação dos meus projetos e a criar uma montra mais completa para a AprovaTVDE, incluindo uma página/case study dedicada à app publicada.
 
-EN: To keep building complete, well-presented, and useful projects that demonstrate technical skills, attention to detail, and willingness to learn.
+EN: I'm improving the presentation of my projects and creating a stronger showcase for AprovaTVDE, including a dedicated page/case study for the published app.
 
 ## Contacto / Contact
 
 - GitHub: https://github.com/Tijgadixa
+- Site: https://aprovas.eu/
