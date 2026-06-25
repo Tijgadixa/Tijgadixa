@@ -16,6 +16,12 @@ I enjoy turning simple ideas into useful, clear, and easy-to-use products. My fo
 
 This GitHub brings together projects that show different stages of my work: from idea to prototype, from prototype to published product, and from interface design to data organisation.
 
+## Objetivo profissional / Professional Goal
+
+PT: Procuro oportunidades como **Junior Developer**, com interesse em desenvolvimento web, frontend, produto digital, aplicações interativas e projetos que envolvam organização de dados e boa experiência de utilização.
+
+EN: I'm looking for opportunities as a **Junior Developer**, with an interest in web development, frontend, digital product, interactive applications, and projects involving data organisation and good user experience.
+
 ## Projeto principal / Main Project
 
 ### AprovaTVDE
@@ -29,6 +35,14 @@ EN: A study app for TVDE theory exam preparation, designed to make practice simp
 - Protótipo web / Web prototype: https://github.com/Tijgadixa/Simulador-de-Questoes-para-TVDE
 
 ## Projetos em destaque / Featured Projects
+
+### ServiceDesk Lite
+
+PT: Mini aplicação de helpdesk com frontend e API em Node.js. Inclui criação, edição, resolução e remoção de tickets, validação de dados, métricas automáticas e persistência em JSON.
+
+EN: A mini helpdesk application with a frontend and Node.js API. It includes ticket creation, editing, resolution and deletion, data validation, automatic metrics, and JSON persistence.
+
+- Repository: https://github.com/Tijgadixa/service-desk-lite
 
 ### WorkBoard Dashboard
 
@@ -60,6 +74,9 @@ EN: A 3D action game built in Godot, featuring enemy drones, ammo collection, wa
 - HTML
 - CSS
 - JavaScript
+- Node.js
+- REST API
+- JSON
 - LocalStorage
 - UI/UX
 - Git and GitHub
